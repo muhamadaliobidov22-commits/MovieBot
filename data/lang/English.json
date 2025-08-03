@@ -1,0 +1,19 @@
+{
+    "follow": "➕ Subscribe",
+    "check_button": "Check ✅",
+    "required_ChG_text": "❌ Sorry, you need to subscribe to these channels before using our bot:",
+    "registration_text_phone": "Dear user, you must first register: ",
+    "share_phonenumber": "Share phone number 📞",
+    "greatings": "👋 Hello {full_name}, welcome to our bot!\n\n✍🏻 Send the movie code.",
+    "share_name_registration_text": "Thank you for sharing your phone number!\nPlease enter your name now (for example: Azizbek Jumaboyev):",
+    "share_name_reistration_text_err": "❌ An error occurred, please try again later!",
+    "still_join_this_channels": "❌ You still need to subscribe to the following channels",
+    "warned_you_saw_this_message": "You've already seen this message.",
+    "movie_numbers_only_numbers": "Sorry, the movie codes only contain numbers ❌",
+    "movie_not_found": "❌ Movie Not Found",
+    "created": "Posted",
+    "views": "Views",
+    "registered": "Congratulations, you have successfully registered 🎉",
+    "premium": "⭐️ You can buy a tariff in our bot, contact the admins for this\n\n👮🏻‍♂️ admins: {link}",
+    "sorry_message_admin": "Sorry, Admins have not added premium function yet ⚠️"
+}

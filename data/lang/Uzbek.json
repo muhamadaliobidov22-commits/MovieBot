@@ -1,0 +1,20 @@
+{
+    "follow": "➕ Obuna bo‘ling",
+    "check_button": "Tekshirish ✅",
+    "required_ChG_text": "❌ Kechirasiz, botdan foydalanishdan oldin quyidagi kanallarga obuna bo‘lishingiz kerak:",
+    "registration_text_phone": "Hurmatli foydalanuvchi, avvalo ro‘yxatdan o‘tishingiz kerak: ",
+    "share_phonenumber": "Telefon raqamni ulashing 📞",
+    "greatings": "👋 Salom {full_name}, botimizga xush kelibsiz!\n\n✍🏻 Iltimos, film kodini yuboring.",
+    "share_name_registration_text": "Telefon raqamingizni ulashganingiz uchun rahmat!\nEndi ismingizni kiriting (masalan: Azizbek Jumaboyev):",
+    "share_name_reistration_text_err": "❌ Xatolik yuz berdi, iltimos keyinroq qayta urinib ko‘ring!",
+    "still_join_this_channels": "❌ Quyidagi kanallarga hali ham obuna bo‘lishingiz kerak",
+    "warned_you_saw_this_message": "Siz ushbu xabarni allaqachon ko‘rgansiz.",
+    "movie_numbers_only_numbers": "Kechirasiz, film kodlari faqat raqamlardan iborat bo‘ladi ❌",
+    "movie_not_found": "❌ Film topilmadi",
+    "created": "Joylangan",
+    "views": "Ko‘rishlar",
+    "registered": "Tabriklaymiz, siz muvaffaqiyatli ro‘yxatdan o‘tdingiz 🎉",
+    "premium": "⭐️ Botimiz orqali tarif sotib olishingiz mumkin, buning uchun administrator bilan bog‘laning\n\n👮🏻‍♂️ Administratorlar: {link}",
+    "sorry_message_admin": "Kechirasiz, administratorlar hali premium funksiyani qo‘shmagan ⚠️"
+  }
+  
